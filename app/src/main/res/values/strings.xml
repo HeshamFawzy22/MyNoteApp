@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="action_settings">Settings</string>
+    <string name="warning">Warning!</string>
+    <string name="do_you_want_to_exit">Do you want to exit?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="note_added_successfully">Note Added Successfully</string>
+    <string name="note_updated_successfully">Note Updated Successfully</string>
+</resources>
